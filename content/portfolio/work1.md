@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/BNSlogos.png"
 date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+title = "Machine Learning Interpretability: A Science rather than a tool"
 weight = 0
 +++
 
